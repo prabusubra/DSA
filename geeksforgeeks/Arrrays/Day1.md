@@ -15,6 +15,13 @@ public class ArrayExamples {
 		System.out.println("sorted : "+isSorted(arr1));
 		System.out.println("sorted : "+isSortedV1(arr));
 		System.out.println("sorted : "+isSortedV1(arr1));
+		
+		int[] ans = reverse(arr);
+		for(int i : ans)
+			System.out.println(i);
+		int[] ans1 = reverse(arr1);
+		for(int i : ans1)
+			System.out.println(i);
 	}
 	static int getLargestElement(int[] arr) {
 		int result = 0;
