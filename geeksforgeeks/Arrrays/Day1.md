@@ -1,5 +1,5 @@
 ```
-public class Hello5 {
+public class ArrayExamples {
 
 	public static void main(String[] args) {
 		int[] arr = {3,6,-18,9,15,7,8, 10, 15};
