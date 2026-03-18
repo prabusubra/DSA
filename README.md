@@ -118,6 +118,9 @@
 11. [Decode ways](https://leetcode.com/problems/decode-ways/).
 12. [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/).
 13. [Count Number of Texts](https://leetcode.com/problems/count-number-of-texts/).
+14. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/).
+15. [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/).
+16. 
 
 ## 8. Sorting and Searching
 1. [Quick sort implementation](https://practice.geeksforgeeks.org/problems/quick-sort/0).
