@@ -163,7 +163,11 @@
 1. [Jump Game](https://leetcode.com/problems/jump-game).
 2. [Gas Station](https://leetcode.com/problems/gas-station).
 
-## 12. Miscellaneous
+## 12. HashTable
+1. [LRU Cache](https://leetcode.com/problems/lru-cache/)
+2. [LFU Cache](https://leetcode.com/problems/lfu-cache/)
+
+## 13. Miscellaneous
 1. [Design a stack that supports push, pop, top, and retrieving the minimum element in constant time](https://leetcode.com/problems/min-stack/).
 2. [Implement an LFU Cache](https://leetcode.com/problems/lfu-cache/).
 3. [Find the maximum meetings in one room](https://practice.geeksforgeeks.org/problems/n-meetings-in-one-room/0).
