@@ -130,6 +130,7 @@
 ### Medium
 - [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
+- [ ] [Search in Rotated Sorted Array II (with duplicates)](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 
 ### Hard
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
