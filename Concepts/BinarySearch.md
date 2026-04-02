@@ -53,4 +53,5 @@ Look for these specific phrases in the problem description. They almost always s
 
 ## Questions:-
 
-[capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+ - [capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+ - [koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/)
