@@ -53,7 +53,6 @@ For prefix/suffix problems:
 
 Keep a consistent structure like this:
 
-```md
 # Problem Name
 
 ## Pattern
@@ -77,5 +76,13 @@ Explain in 2–4 lines what the idea is.
 - Time: O(n)
 - Space: O(n)
 
-## Key takeaway
-What pattern did this problem teach me?
+- Prefix Sum: range sum queries
+- Prefix/Suffix Arrays: values before and after each index
+- Sliding Window: contiguous subarray problems
+- Two Pointers: sorted arrays, pair checking
+- Monotonic Stack: next greater/smaller element
+- Binary Search: sorted answer space
+- DFS/BFS: graphs, trees, grids
+- DP: overlapping subproblems
+- Greedy: local best choice
+- Union Find: connectivity
