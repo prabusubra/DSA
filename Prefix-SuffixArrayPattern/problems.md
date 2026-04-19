@@ -65,6 +65,7 @@
 4. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 5. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 6. [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/)
+7. [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i/)
 
 ---
 
